@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
 
 ### 📊 Data Science & ML
 
-- `Scikit-learn`, `XGBoost`, `Keras`, `TensorFlow`, `MLlib`, `NLTK`, `Flask`, `MLflow`
+- `Scikit-learn`, `XGBoost`, `Keras`, `TensorFlow`, `MLlib`, `NLTK`, `Flask`, `MLflow`, `LangChain`, `LLM`
 - 🧠 Machine Learning (Regression, Classification, Clustering)
 - 📚 NLP & Transformers (Text Extraction, Comparison Tools)
 - 🔍 Statistical Analysis, Feature Engineering, Hyperparameter Tuning
