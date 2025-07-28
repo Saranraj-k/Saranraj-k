@@ -55,7 +55,6 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
 
 - 🥇 **STAR & R Award** for handling a high-impact requirement, identifying system bugs, collaborating with multiple teams, and delivering successfully  
 - ✅ Contributed to multiple stakeholder demos, business requirement reviews, and production deployments  
-- 💬 Regular participant in **IAM (Internal AI & ML Forums)** to share ideas, demos & collaborate on solutions
 
 ---
 
