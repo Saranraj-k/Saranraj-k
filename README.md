@@ -61,9 +61,9 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saranraj-k/)
-- 📝 [Medium Articles](https://medium.com/@Saranraj-k) — beginner-friendly guides on LangChain & GenAI
-- 💼 Portfolio site (coming soon…)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saran-raj-k-0b2986166/)
+- 📝 [Medium Articles](https://medium.com/@saranraj22222) — beginner-friendly guides on LangChain & GenAI
+- 💼 [Portfolio](https://saranraj-k.my.canva.site/saran-raj-krishnapillai)
 
 ---
 
