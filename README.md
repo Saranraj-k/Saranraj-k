@@ -48,6 +48,7 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
 | 🧾 **Account Receivable Risk Analysis** | Built models and rules-based logic to identify risk-prone transactions and optimize collection strategies |
 | 📜 **Data Comparison NLP Tool** | Developed a Flask-based app to extract, process, and compare multi-format documents using NLP techniques |
 | 🛠️ **Log Analyzer (ML App)** | Trained models to classify and detect patterns in server logs for anomaly detection & system health monitoring |
+| 🤖 **Analytics Agent** | An AI-powered agent designed to assist with data analysis and visualization. The agent leverages advanced Python and ML techniques to automate insights generation and help users explore data interactively. [View Repo ➔](https://github.com/Saranraj-k/Analytics-Agent) |
 
 ---
 
