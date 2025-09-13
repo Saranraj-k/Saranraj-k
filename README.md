@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Saranraj!  
 **Microsoft Certified | Data Science & Engineering Enthusiast | AI & ML Practitioner**
 
-Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building real-world data solutions that drive impact. I love designing scalable pipelines, deploying machine learning models, and turning complex data into actionable insights. Let's build something amazing together 🚀
+Welcome to my GitHub! I'm a Data Scientist passionate about building real-world data solutions that drive impact. I love designing scalable pipelines, deploying machine learning models, and turning complex data into actionable insights. Let's build something amazing together 🚀
 
 ---
 
