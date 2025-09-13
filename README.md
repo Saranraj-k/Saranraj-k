@@ -7,11 +7,11 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
 
 ## 🧠 About Me
 
-- 🧑‍💻 4+ years of experience in Data Engineering, Machine Learning & Analytics  
+- 🧑‍💻 4+ years of experience in Data Science, Machine Learning, Data Engineering & Analytics  
 - 🌐 Worked across domains like **Financial Services** and **Retail**  
-- 🔁 Special focus on **Data Migration**, **Risk Analytics**, and **Big Data Automation**  
+- 🔁 Special focus on **Data Migration**, **Risk Analytics and Prediction**, and **Big Data Automation**  
 - 📈 Passionate about solving business problems through AI/ML  
-- 🛠️ Automating workflows, optimizing pipelines, and building data products is my jam  
+- 🛠️ Developing ML models, Automating workflows, optimizing pipelines, and building data products is my jam  
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4479A1?style=for-the-badge"/></a>
 </div>
 
-### 📊 Data Science & ML
+<h3><img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="24" height="24"/> Data Science & ML.</h3>
 <div align="left">
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
   <a href="https://xgboost.ai/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-EC6A00?style=for-the-badge"/></a>
@@ -43,11 +43,19 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
   <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank"><img src="https://img.shields.io/badge/LLM-4479A1?style=for-the-badge"/></a>
   <a href="https://python.langchain.com/docs/use_cases/question_answering/rag/" target="_blank"><img src="https://img.shields.io/badge/RAG-4479A1?style=for-the-badge"/></a>
   <a href="https://python.langchain.com/docs/use_cases/agents/" target="_blank"><img src="https://img.shields.io/badge/AI%20Agent-4479A1?style=for-the-badge"/></a>
+  <!-- Tool badges styled like screenshot -->
+  <img src="https://img.shields.io/badge/AGENTIC%20AI-232D4D?style=for-the-badge&logo=artstation&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/LANGGRAPH-1F487C?style=for-the-badge&logo=graphviz&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CREWAI-12664F?style=for-the-badge&logo=airbnb&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/AUTOGEN%20(AG2)-FF7F50?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/BEEAI-F5B700?style=for-the-badge&logo=bee&logoColor=black" alt="BeeAI"/>
+  <img src="https://img.shields.io/badge/PYDANTIC-0E7C86?style=for-the-badge&logo=python&logoColor=white" alt="Pydantic"/>
 </div>
 
 - 🧠 Machine Learning (Regression, Classification, Clustering, Deep Learning, Neural Networks - ANN, RNN)
 - 📚 NLP & Transformers (Text Extraction, Vectorization, Encoders, Decoders)
-- 🤖 Generative AI (RAG, Fine Tuning - PEFT & FFT, RLHF, AI Agents)
+- 🤗 Generative AI (RAG, Fine Tuning - PEFT & FFT, RLHF, LLM, OpenAI, Groq, HuggingFace, MultiModal)
+- 🤖 AI Agents (Tool calling, Multi agent workflows, ReAct)
 - 🔍 Statistical Analysis, Forecasting, Feature Engineering, Hyperparameter Tuning
 
 ### ☁️ Cloud & Big Data
@@ -85,11 +93,12 @@ Welcome to my GitHub! I'm a Data Analytics Engineer passionate about building re
 
 | 📁 Project | 💡 Description |
 |-----------|----------------|
-| 🔄 **Data Migration Engine** | Migrated millions of records from legacy systems to cloud platforms using Azure Databricks & Medallion Architecture |
-| 🧾 **Account Receivable Risk Analysis** | Built models and rules-based logic to identify risk-prone transactions and optimize collection strategies |
-| 📜 **Data Comparison NLP Tool** | Developed a Flask-based app to extract, process, and compare multi-format documents using NLP techniques |
-| 🛠️ **Log Analyzer (ML App)** | Trained models to classify and detect patterns in server logs for anomaly detection & system health monitoring |
+| 🔄 **Data Migration Engine** | Led end-to-end migration of 20M+ records from Oracle to Azure, optimizing data pipelines with Python and SQL for 35% performance gain and 40% error reduction. Collaborated cross-functionally to debug legacy edge-case issues, built validation frameworks, and delivered Power BI dashboards for real-time insights and improved client experience. |
+| 🧾 **Account Receivable Risk Analysis** | Designed and deployed scalable Medallion Architecture pipelines on Azure Databricks for multi-region AR data, enabling real-time financial monitoring and audit compliance across LATAM, NAM, Europe, Asia, and Brazil. Delivered validated Gold-layer insights via Power BI dashboards, supported global audit teams, and showcased AI/ML-driven risk analytics at IAM 2025 for Grupo Bimbo and PwC. |
+| 📜 **Data Comparison NLP Tool** | Built a Flask-based internal validation tool using Python, SQL, and NLP to automate cross-platform data checks during Oracle-to-Azure migration, reducing manual effort by 80%. |
+| 🛠️ **Log Analyzer (ML App)** | Built an ML-powered Error Log Analyzer using Python, AzureML, and Scikit-learn to automate classification and root-cause analysis of migration failures, reducing manual diagnosis time by 90%. |
 | 🤖 **Analytics Agent** | An AI-powered agent designed to assist with data analysis and visualization. The agent leverages advanced Python and ML techniques to automate insights generation and help users explore data interactively. [View Repo ➔](https://github.com/Saranraj-k/Analytics-Agent) |
+| 🩺 **Agentic Nutritionist** | An Agentic AI app that uses a Multimodal LLM to act as a Nutritionist, suggesting dishes tailored to dietary needs by analyzing images and user input. [View Repo ➔](https://github.com/Saranraj-k/Agentic_Nutritionist) |
 
 ---
 
