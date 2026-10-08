@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a Data Scientist passionate about building real-world 
 
 ## 🧠 About Me
 
-- 🧑‍💻 4+ years of experience in Data Science, Machine Learning, Data Engineering & Analytics  
+- 🧑‍💻 5+ years of experience in Data Science, Machine Learning, Data Engineering & Analytics  
 - 🌐 Worked across domains like **Financial Services** and **Retail**  
 - 🔁 Special focus on **Data Migration**, **Risk Analytics and Prediction**, and **Big Data Automation**  
 - 📈 Passionate about solving business problems through AI/ML  
